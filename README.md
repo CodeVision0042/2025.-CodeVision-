@@ -1,3 +1,5 @@
+#코드비전 첫번째 코딩 스터디 내용
+
 import java.util.Scanner;
 
 public class CodeVisionPromo {
